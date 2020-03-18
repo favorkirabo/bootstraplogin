@@ -1,0 +1,22 @@
+body{
+    background-color: #16202b;
+}
+.logo{
+width: 100px;
+height: 100px; 
+}
+.btn-login{
+
+    border-radius: 25px;
+}
+.login-form{
+    margin: 0 auto;
+    width:500px;
+}
+.form-control{
+    background-color: #1a334e;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+}
+
